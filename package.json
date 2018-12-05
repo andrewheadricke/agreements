@@ -1,0 +1,17 @@
+{
+  "name": "agreements",
+  "version": "0.0.1",
+  "description": "Ethereum contract for managing agreements",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "web3": "^1.0.0-beta.36"
+  }
+}
